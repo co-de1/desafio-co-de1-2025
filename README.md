@@ -1,8 +1,6 @@
 # ABRIGO DE ANIMAIS # desafio-co-de1-2025
 
-## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
-
-Resolução do desafio usando Javascript, entregue no repositório do meu github.
+## Resolução do desafio usando Javascript.
 
 
 ## O DESAFIO
